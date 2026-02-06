@@ -38,3 +38,13 @@ starbugs-hub/
 ├── .gitattributes
 ├── .gitignore
 ├── README.md
+
+## 🚧 Status
+
+🟡 Em desenvolvimento
+
+---
+
+👨‍💻 Desenvolvido por **StarBugs**  
+📍 Brasil  
+🚀 Em constante evolução
