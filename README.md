@@ -37,7 +37,7 @@ Repositório usado como laboratório técnico e portfólio público.
 starbugs-hub/
 ├── .gitattributes
 ├── .gitignore
-└── README.md
+└── README.md```
 
 
 
