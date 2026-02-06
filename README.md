@@ -1,5 +1,4 @@
-
-# 🤖 Starbugs Tech Hub 🚀
+## 🤖 Starbugs Tech Hub 🚀
 
 Projeto **Starbugs** focado em **estudos práticos de Git, GitHub e automação de testes**.  
 Este repositório faz parte da minha jornada de evolução como **Desenvolvedor Júnior**, com foco em boas práticas, versionamento e qualidade de código.
