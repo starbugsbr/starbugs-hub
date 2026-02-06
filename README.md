@@ -51,7 +51,7 @@ starbugs-hub/
 ---
 
 <p align="center">
-  <strong>StarBugs Tech Hub</strong> • 2026<br/>
+  <strong>Starbugs Tech Hub</strong> • 2026<br/>
   <sub>Mato Grosso do Sul - Brasil</sub>
 </p>
 
