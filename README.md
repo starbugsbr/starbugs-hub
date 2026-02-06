@@ -33,10 +33,12 @@ Repositório usado como laboratório técnico e portfólio público.
 
 ## 📁 Estrutura do Projeto
 
+
 starbugs-hub/
 ├── .gitattributes
 ├── .gitignore
 └── README.md
+
 
 ## 🚧 Status
 
