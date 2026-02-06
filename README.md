@@ -45,6 +45,6 @@ starbugs-hub/
 
 ---
 
-👨‍💻 Desenvolvido por **StarBugs**  
+## 👨‍💻 Desenvolvido por **-StarBugs Tech Hub-**  
 📍 Brasil  
-🚀 Em constante evolução
+
