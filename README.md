@@ -44,7 +44,11 @@ starbugs-hub/
 🟡 Em desenvolvimento
 
 ---
+---
 
-## 👨‍💻 Desenvolvido por **-StarBugs Tech Hub-**  
-📍 Brasil  
+<p align="center">
+  <strong>StarBugs Tech Hub</strong> • 2026<br/>
+  <sub>Brasil</sub>
+</p>
+
 
