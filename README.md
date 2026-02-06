@@ -38,7 +38,6 @@ starbugs-hub/
 ├── .gitignore
 └── README.md
 
-
 ## 🚧 Status
 
 🟡 Em desenvolvimento
@@ -48,7 +47,7 @@ starbugs-hub/
 
 <p align="center">
   <strong>StarBugs Tech Hub</strong> • 2026<br/>
-  <sub>Brasil</sub>
+  <sub>Mato Grosso do Sul, Brasil</sub>
 </p>
 
 
