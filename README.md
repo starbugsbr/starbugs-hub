@@ -33,7 +33,7 @@ Repositório usado como laboratório técnico e portfólio público.
 
 ## 📁 Estrutura do Projeto
 
-
+´bash´
 starbugs-hub/
 ├── .gitattributes
 ├── .gitignore
