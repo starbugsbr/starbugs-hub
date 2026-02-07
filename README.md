@@ -1,5 +1,4 @@
-# 🚀 StarBugs Tech Hub 🤖
-
+# 🚀 StarBugs Tech 🤖
 Projeto focado em estudos práticos de desenvolvimento, automação de testes e boas práticas.  
 Repositório usado como laboratório técnico e portfólio público.
 
